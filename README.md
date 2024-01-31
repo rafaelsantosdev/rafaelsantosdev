@@ -4,8 +4,7 @@
 
 <ul align="left">
   <li>👓 Adoro tecnologia.</li>
-  <li>🧠 Estou estudando programação front-end..</li>
-  <li>💭 Pretendo estudar também back-end.</li>  
+  <li>🧠 Estou estudando desenvolvimento web..</li>
   <li>🌎 Sonho em ser um desenvolvedor full stack.</li>
 </ul>
 
